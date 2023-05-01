@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/114337279/235453610-caab0e74-23c7-475d-ae43-eb949a1ce1af.jpg)
+![MasterHead](![life eletric como 1](https://user-images.githubusercontent.com/114337279/235454537-d82843e4-3a0a-4f95-8849-1ce1bc4f4635.jpg)
 <h2 align="center">Hello ✋🏼, I'm João André Pinho</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://i.gifer.com/4zeM.gif">
