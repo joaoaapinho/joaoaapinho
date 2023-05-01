@@ -6,7 +6,7 @@
 ## About Me
 - 🧪 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance
 
-- 🎓 **Education:** MSc in Computer Science w/ specialization in AI, MSc in Management
+- 🎓 **Education:** MSc in Computer Science with Specialization in AI, MSc in Management
 
 - 💼 **Professional Experience:** Financial Modelling, Consulting, Teaching Assistant
 
@@ -15,3 +15,8 @@
 - 🗻 **Interests:** Long-Distance Running, Datathons, Trance Music, Photography
 
 - 💡 **Personal Motto:** "Feed curiosity, seek the right tools, build solutions."
+
+<h3 align="left">Get in Touch</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaoapinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
