@@ -14,4 +14,4 @@
 
 - 🗻 **Interests:** Long-Distance Running, Datathons, Trance Music, Photography
 
-- 💡 **Personal Motto:** Feed curiosity, seek the right tools, build solutions
+- 💡 **Personal Motto:** "Feed curiosity, seek the right tools, build solutions."
