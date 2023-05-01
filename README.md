@@ -1,11 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/114337279/235454537-d82843e4-3a0a-4f95-8849-1ce1bc4f4635.jpg)
 <h2 align="center">Hello ✋🏼, I'm João André Pinho</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
-<img align="right" alt="Coding Gif" width="400" src="https://i.gifer.com/4zeM.gif">
+<img align="right" alt="Coding Gif" width="400" src="https://user-images.githubusercontent.com/114337279/235455807-b1127964-0e21-44b8-8e0e-2b345d43412a.gif">
+ 
 
 <!--
-**joaoaapinho/joaoaapinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
