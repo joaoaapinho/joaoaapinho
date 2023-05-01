@@ -5,8 +5,13 @@
  
 ## About Me
 - 🧪 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance
+
 - 🎓 **Education:** MSc in Computer Science w/ specialization in AI, MSc in Management
+
 - 💼 **Professional Experience:** Financial Modelling, Consulting, Teaching Assistant
+
 - 🧠 **Currently Learning:** Spark & Hadoop for Big Data processing, TensorFlow for Neural Networking
-- 🗻 **Interests:** Long-Distance Running, Datathons, Photography
-- 💡 **Personal Motto:** Feed curiosity, seek the right tools, build solutions.
+
+- 🗻 **Interests:** Long-Distance Running, Datathons, Trance Music, Photography
+
+- 💡 **Personal Motto:** Feed curiosity, seek the right tools, build solutions
