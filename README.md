@@ -1,4 +1,7 @@
-### Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/114337279/235453610-caab0e74-23c7-475d-ae43-eb949a1ce1af.jpg)
+<h2 align="center">Hello ✋🏼, I'm João André Pinho</h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
+<img align="right" alt="Coding Gif" width="400" src="https://i.gifer.com/4zeM.gif">
 
 <!--
 **joaoaapinho/joaoaapinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
