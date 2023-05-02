@@ -8,7 +8,7 @@
 
 - 🎓 **Education:** MSc in Computer Science with Specialization in AI, MSc in Management
 
-- 💼 **Professional Experience:** Financial Modelling, Consulting, Teaching Assistant
+- 💼 **Previous Professional Experience:** Financial Modelling, Consulting, Teaching Assistant at [Nova School of Business and Economics](https://www.novasbe.unl.pt/en/)
 
 - 🧠 **Currently Learning:** Spark & Hadoop for Big Data processing, TensorFlow for Neural Networking
 
