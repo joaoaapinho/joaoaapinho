@@ -4,7 +4,7 @@
 <img align="right" alt="Coding Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlZTEwYjA0NDZlZjRiZTMzZjliYzllNDE5ZGMzMjFiNDJkNDE5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
  
 ## About Me
-- 🧪 **Areas of Interest**: AI & ML, Data Science, Consulting, Finance
+- 🧪 **Areas of Interest**: AI & ML, Data Science, Finance, Consulting
 
 - 🎓 **Education:** MSc in Computer Science with Specialization in AI, MSc in Management
 
