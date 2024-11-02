@@ -13,7 +13,7 @@
 
 - 🧠 **Currently Learning:** Spark & Hadoop for Big Data processing
 
-- 🗻 **Interests:** Long-Distance Running, Datathons, Trance Music, Photography
+- 🗻 **Interests:** Long-Distance Running, Table Tennis, Datathons, Trance Music, Photography
 
 - 💡 **Personal Motto:** "Feed curiosity, seek the right tools, build solutions."
 
