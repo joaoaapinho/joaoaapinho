@@ -9,7 +9,7 @@
 
 - 🎓 **Education:** MSc in Computer Science with Specialization in AI, MSc in Management
 
-- 💼 **Previous Professional Experience:** Data Science, Data Engineering, Financial Modelling, Teaching Assistant
+- 💼 **Previous Professional Experience:** Data Scientist/Data Engineer, Financial Modelling Consultant, Teaching Assistant
 
 - 🧠 **Currently Learning:** Spark & Hadoop for Big Data processing
 
