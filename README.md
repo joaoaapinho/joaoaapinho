@@ -15,6 +15,11 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
 
 🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
+<h3 align="left">Get in Touch</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a>
+
 <h3 align="left">Certifications</h3>
 <div align="left">
   <p>
@@ -27,28 +32,32 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
   </p>
 </div>
 
-<h3 align="left">Get in Touch</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a>
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:20px"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" style="margin-right:20px"/></a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right:20px"/></a> 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right:20px"/></a> 
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="40" style="margin-right:20px"/></a> 
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/joaoaapinho/joaoaapinho/assets/114337279/9ec11a6b-32b8-4ccf-9481-be4df325c82e" alt="Apache-Spark" width="70" height="40" style="margin-right:20px"/></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40" style="margin-right:20px"/></a> 
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right:20px"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/75578721-8ff3-4dee-af62-c84bfb9ffd42" alt="Python" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/34440527-65d7-4f06-af37-f9cd772cbefa" alt="Linux/Bash" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/6b99a96b-1ba2-4b42-a40c-54c89c5ead94" alt="Polars" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scipy" width="60" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/469866f4-7481-4024-bdd7-225e3e4b0269" alt="Scipy" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://github.com/user-attachments/assets/5c9a9136-1d30-44d7-bc1c-a7b92af261b9" alt="Pytorch" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://github.com/user-attachments/assets/83bbdaf2-6dbd-45c1-ac89-7804454754b2" alt="hugging-face" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://github.com/user-attachments/assets/e5ec4e8b-5006-4ca4-a393-a89fdaeae0f4" alt="langchain" width="60" height="40" style="margin-right:20px"/></a> 
+<a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/joaoaapinho/joaoaapinho/assets/114337279/9ec11a6b-32b8-4ccf-9481-be4df325c82e" alt="Apache-Spark" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/11179e2f-a1b5-4e26-bc10-35148722efb3" alt="Apache-Airflow" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/45e2054a-7758-4ab5-957c-035dfbafa62a" alt="Kafka" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/4582c536-5be3-40f3-93aa-1572be26d55e" alt="AWS" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/e139208a-db12-4622-b95b-530df339bbc9" alt="GCP" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/73896084-7c8f-41fd-a728-6bafe4cee6a2" alt="Docker" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/f85e2647-bd54-486e-9f85-8fba009da965" alt="MLflow" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/cf465fba-092b-4646-a214-dc9d13de5d35" alt="Git" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/0738cee4-6801-4ca2-b2ad-e38c9d54a858" alt="Flask" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/0738cee4-6801-4ca2-b2ad-e38c9d54a858" alt="Flask" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/633c4cc7-4e5d-4cc5-a4d0-c6619508f12f" alt="FastAPI" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/633c4cc7-4e5d-4cc5-a4d0-c6619508f12f" alt="FastAPI" width="70" height="40" style="margin-right:20px"/></a>
+<a <img src="https://github.com/user-attachments/assets/2b1656cc-73f0-47f7-ab7b-4eb596bff013" alt="Streamlit" width="70" height="40" style="margin-right:20px"/></a>
 </p>
