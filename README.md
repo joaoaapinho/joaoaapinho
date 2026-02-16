@@ -11,23 +11,19 @@
 As a Data Scientist, I work at the intersection of corporate bond markets and production AI to develop pipelines that empower institutional clients to research and trade debt markets.
 By blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product offerings.
 
-- 🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
-- 🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
+🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
+🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="48" height="48" alt="IBM Badge" />
-      <br />
-      <sub><b>IBM Certified Data Science Professional</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="48" height="48" alt="TensorFlow Badge" />
-      <br />
-      <sub><b>TensorFlow Certified Developer</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <p>
+    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="32" height="32" align="center" />
+    <span>&nbsp;&nbsp;IBM Certified Data Science Professional</span>
+  </p>
+  <p>
+    <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="32" height="32" align="center" />
+    <span>&nbsp;&nbsp;TensorFlow Certified Developer</span>
+  </p>
+</div>
 
 <h3 align="left">Get in Touch</h3>
 <p align="left">
