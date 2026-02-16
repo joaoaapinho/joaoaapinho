@@ -12,6 +12,7 @@ As a Data Scientist, I work at the intersection of corporate bond markets and pr
 By blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product offerings.
 
 🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
+
 🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
 <div align="left">
