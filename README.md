@@ -16,7 +16,7 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
 
 🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
 
-🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
+🗻 **Leisure:** Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
 <h3 align="left">Get in Touch</h3>
 <p align="left">
