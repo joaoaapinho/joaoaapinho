@@ -39,6 +39,7 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/6b99a96b-1ba2-4b42-a40c-54c89c5ead94" alt="Polars" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" style="margin-right:20px"/></a>
+<a><img src="https://github.com/user-attachments/assets/7b0de5f4-1554-4749-b98d-90f6b8ab2b11" alt="Excel" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://github.com/user-attachments/assets/469866f4-7481-4024-bdd7-225e3e4b0269" alt="Scipy" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="60" height="40" style="margin-right:20px"/></a> 
@@ -56,5 +57,5 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
 <a><img src="https://github.com/user-attachments/assets/cf465fba-092b-4646-a214-dc9d13de5d35" alt="Git" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/0738cee4-6801-4ca2-b2ad-e38c9d54a858" alt="Flask" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/633c4cc7-4e5d-4cc5-a4d0-c6619508f12f" alt="FastAPI" width="40" height="40" style="margin-right:20px"/></a>
-<a><img src="https://github.com/user-attachments/assets/2b1656cc-73f0-47f7-ab7b-4eb596bff013" alt="Streamlit" width="70" height="40" style="margin-right:20px"/></a>
+<a><img src="https://github.com/user-attachments/assets/2b1656cc-73f0-47f7-ab7b-4eb596bff013" alt="Streamlit" width="40" height="40" style="margin-right:20px"/></a>
 </p>
