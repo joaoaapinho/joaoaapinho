@@ -1,21 +1,33 @@
 ![MasterHead](https://user-images.githubusercontent.com/114337279/235454537-d82843e4-3a0a-4f95-8849-1ce1bc4f4635.jpg)
 
-<h2 align="center">Hello ✋🏼, I'm João André Pinho</h1>
-<h3 align="center">Welcome to my GitHub Profile!</h3>
+<h2 align="center"> >Hi ✋🏼, I'm João </h1>
+<h3 align="center">Breaking code so machines learn.</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlZTEwYjA0NDZlZjRiZTMzZjliYzllNDE5ZGMzMjFiNDJkNDE5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
  
 ## About Me
-- 🧪 **Areas of Interest**: AI & ML, Data Science, Quantitative Finance
 
-- 🎓 **Education:** MSc in Computer Science with Specialization in AI, MSc in Management
+*Feed curiosity, seek the right tools, build solutions.*
 
-- 💼 **Previous Professional Experience:** Data Scientist/Data Engineer, Financial Modelling Consultant, Teaching Assistant
+As a Data Scientist, I work at the intersection of corporate bond markets and production AI to develop pipelines that empower institutional clients to research and trade debt markets.
+By blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product offerings.
 
-- 🧠 **Currently Learning:** Spark & Hadoop for Big Data processing
+- 🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
+- 🗻 Interests: Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
-- 🗻 **Interests:** Long-Distance Running, Table Tennis, Datathons, Trance Music, Photography
-
-- 💡 **Personal Motto:** "Feed curiosity, seek the right tools, build solutions."
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="48" height="48" alt="IBM Badge" />
+      <br />
+      <sub><b>IBM Certified Data Science Professional</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="48" height="48" alt="TensorFlow Badge" />
+      <br />
+      <sub><b>TensorFlow Certified Developer</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Get in Touch</h3>
 <p align="left">
