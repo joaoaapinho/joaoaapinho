@@ -2,6 +2,9 @@
 
 <h2 align="center"> >Hi ✋🏼, I'm João </h1>
 <h3 align="center">Breaking code so machines learn.</h3>
+<h3 align="center">
+  💻 <a href="https://joaoapinho.dev/" target="_blank">https://joaoapinho.dev/</a>
+</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlZTEwYjA0NDZlZjRiZTMzZjliYzllNDE5ZGMzMjFiNDJkNDE5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
  
 ## About Me
