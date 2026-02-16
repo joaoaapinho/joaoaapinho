@@ -3,7 +3,7 @@
 <h2 align="center"> >Hi ✋🏼, I'm João </h1>
 <h3 align="center">Breaking code so machines learn.</h3>
 <p align="center" style="font-size: 14px; letter-spacing: 0.5px;">
-  🔭 <a href="joaoapinho.dev" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: 500;">joaoapinho.dev</a>
+  🔭 <a href="joaoapinho.dev/" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: 500;">joaoapinho.dev</a>
 </p>
 <img align="right" alt="Coding Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlZTEwYjA0NDZlZjRiZTMzZjliYzllNDE5ZGMzMjFiNDJkNDE5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
  
