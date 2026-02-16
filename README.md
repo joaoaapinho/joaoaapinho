@@ -5,7 +5,8 @@
 <p align="center" style="font-size: 13px; color: #8b949e;">
   🔭 <a href="https://joaoapinho.dev/" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: 600;">joaoapinho.dev/</a>
 </p>
-<img align="right" alt="Coding Gif" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlZTEwYjA0NDZlZjRiZTMzZjliYzllNDE5ZGMzMjFiNDJkNDE5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
+
+![tumblr_n6vuiwKOoA1rat0tqo1_500](https://github.com/user-attachments/assets/2dda5d02-c911-47cf-b94c-c2418c55993e)
  
 ## About Me
 
