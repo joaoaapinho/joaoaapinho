@@ -42,7 +42,7 @@ By blending statistical analysis with heuristic and agentic frameworks, I extrac
 <a><img src="https://github.com/user-attachments/assets/7b0de5f4-1554-4749-b98d-90f6b8ab2b11" alt="Excel" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://github.com/user-attachments/assets/469866f4-7481-4024-bdd7-225e3e4b0269" alt="Scipy" width="40" height="40" style="margin-right:20px"/></a> 
-<a><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="60" height="40" style="margin-right:20px"/></a> 
+<a><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://github.com/user-attachments/assets/5c9a9136-1d30-44d7-bc1c-a7b92af261b9" alt="Pytorch" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://github.com/user-attachments/assets/83bbdaf2-6dbd-45c1-ac89-7804454754b2" alt="hugging-face" width="40" height="40" style="margin-right:20px"/></a> 
 <a><img src="https://github.com/user-attachments/assets/e5ec4e8b-5006-4ca4-a393-a89fdaeae0f4" alt="langchain" width="40" height="40" style="margin-right:20px"/></a> 
