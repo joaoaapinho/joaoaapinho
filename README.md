@@ -10,8 +10,8 @@
 
 *Feed curiosity, seek the right tools, build solutions.*
 
-As a Data Scientist, I work at the intersection of corporate bond markets and production AI to develop pipelines that empower institutional clients to research and trade debt markets.
-By blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product offerings.
+As a Data Scientist, I work at the intersection of corporate bond markets and production AI to develop models that empower institutional clients to research and trade debt markets.
+Blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product insights.
 
 🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
 
