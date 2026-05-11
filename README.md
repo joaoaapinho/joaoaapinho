@@ -17,13 +17,16 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 
 🗻 **Leisure:** Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
+<!-- <h3 align="left">Get in Touch</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a> -->
+
 <h3 align="left">Get in Touch</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="left" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="linkedin" height="50"/></a>
+<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="35" width="35" /></a>
 </p>
-
-<br>
 
 <h3 align="left">Certifications</h3>
 <div align="left">
