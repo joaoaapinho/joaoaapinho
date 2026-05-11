@@ -19,22 +19,26 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 
 <h3 align="left">Get in Touch</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a>
+</p>
+
+<br>
 
 <h3 align="left">Certifications</h3>
 <div align="left">
   <p>
-    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="42" height="32" align="center" />
+    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="55" height="30" align="center" />
     <span>&nbsp;&nbsp;IBM Certified Data Science Professional</span>
   </p>
   <p>
-    <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="32" height="32" align="center" />
+    <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="40" height="40" align="center" />
     <span>&nbsp;&nbsp;TensorFlow Certified Developer</span>
   </p>
 </div>
 
 <h3 align="left">Languages and Tools</h3>
+
 <a><img align="left" src="https://github.com/user-attachments/assets/75578721-8ff3-4dee-af62-c84bfb9ffd42" alt="Python" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/34440527-65d7-4f06-af37-f9cd772cbefa" alt="Linux/Bash" height="40"/></a>
 <a><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="40"/></a>
@@ -42,7 +46,7 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <a><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/7b0de5f4-1554-4749-b98d-90f6b8ab2b11" alt="Excel" height="40"/></a>
 <a><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/></a>
-<a><img align="left" src="https://github.com/user-attachments/assets/469866f4-7481-4024-bdd7-225e3e4b0269" alt="Scipy" height="40"/></a>
+<a><img src="https://github.com/user-attachments/assets/469866f4-7481-4024-bdd7-225e3e4b0269" alt="Scipy" height="40"/></a>
 <a><img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/5c9a9136-1d30-44d7-bc1c-a7b92af261b9" alt="Pytorch" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/83bbdaf2-6dbd-45c1-ac89-7804454754b2" alt="hugging-face" height="40"/></a>
@@ -50,7 +54,8 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <a><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/></a>
 <a><img align="left" src="https://github.com/joaoaapinho/joaoaapinho/assets/114337279/9ec11a6b-32b8-4ccf-9481-be4df325c82e" alt="Apache-Spark" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/11179e2f-a1b5-4e26-bc10-35148722efb3" alt="Apache-Airflow" height="40"/></a>
-<a><img align="left" src="https://github.com/user-attachments/assets/45e2054a-7758-4ab5-957c-035dfbafa62a" alt="Kafka" height="40"/></a>
+<a><img src="https://github.com/user-attachments/assets/45e2054a-7758-4ab5-957c-035dfbafa62a" alt="Kafka" height="40"/></a>
+
 <a><img align="left" src="https://github.com/user-attachments/assets/4582c536-5be3-40f3-93aa-1572be26d55e" alt="AWS" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/e139208a-db12-4622-b95b-530df339bbc9" alt="GCP" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/73896084-7c8f-41fd-a728-6bafe4cee6a2" alt="Docker" height="40"/></a>
