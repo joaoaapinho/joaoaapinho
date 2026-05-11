@@ -35,7 +35,6 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 </div>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> 
 <a><img src="https://github.com/user-attachments/assets/75578721-8ff3-4dee-af62-c84bfb9ffd42" alt="Python" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/34440527-65d7-4f06-af37-f9cd772cbefa" alt="Linux/Bash" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" style="margin-right:20px"/></a>
@@ -60,4 +59,3 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <a><img src="https://github.com/user-attachments/assets/0738cee4-6801-4ca2-b2ad-e38c9d54a858" alt="Flask" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/633c4cc7-4e5d-4cc5-a4d0-c6619508f12f" alt="FastAPI" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/2b1656cc-73f0-47f7-ab7b-4eb596bff013" alt="Streamlit" width="40" height="40" style="margin-right:20px"/></a>
-</p>
