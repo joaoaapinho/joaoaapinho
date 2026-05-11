@@ -25,7 +25,7 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <h3 align="left">Certifications</h3>
 <div align="left">
   <p>
-    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="32" height="32" align="center" />
+    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="42" height="32" align="center" />
     <span>&nbsp;&nbsp;IBM Certified Data Science Professional</span>
   </p>
   <p>
