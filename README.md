@@ -59,5 +59,3 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <a><img src="https://github.com/user-attachments/assets/0738cee4-6801-4ca2-b2ad-e38c9d54a858" alt="Flask" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/633c4cc7-4e5d-4cc5-a4d0-c6619508f12f" alt="FastAPI" width="40" height="40" style="margin-right:20px"/></a>
 <a><img src="https://github.com/user-attachments/assets/2b1656cc-73f0-47f7-ab7b-4eb596bff013" alt="Streamlit" width="40" height="40" style="margin-right:20px"/></a>
-
-can you make the languages and tools + get in touch logos follow each other side by side instead of vertically
