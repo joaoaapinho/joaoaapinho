@@ -53,7 +53,6 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <a><img align="left" src="https://github.com/joaoaapinho/joaoaapinho/assets/114337279/9ec11a6b-32b8-4ccf-9481-be4df325c82e" alt="Apache-Spark" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/11179e2f-a1b5-4e26-bc10-35148722efb3" alt="Apache-Airflow" height="40"/></a>
 <a><img src="https://github.com/user-attachments/assets/45e2054a-7758-4ab5-957c-035dfbafa62a" alt="Kafka" height="40"/></a>
-
 <a><img align="left" src="https://github.com/user-attachments/assets/4582c536-5be3-40f3-93aa-1572be26d55e" alt="AWS" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/e139208a-db12-4622-b95b-530df339bbc9" alt="GCP" height="40"/></a>
 <a><img align="left" src="https://github.com/user-attachments/assets/73896084-7c8f-41fd-a728-6bafe4cee6a2" alt="Docker" height="40"/></a>
