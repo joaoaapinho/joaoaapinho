@@ -17,11 +17,6 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 
 🗻 **Leisure:** Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
-<!-- <h3 align="left">Get in Touch</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235481139-72ec890b-6b3b-4de6-8762-3b450db376b0.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:joaoapinho@outlook.com?subject=Hello%20from%20your%20GitHub%20profile" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337279/235480895-c422fd42-e1ae-45f9-8dbd-d44b09f6068a.png" alt="Email" height="40" width="40" /></a> -->
-
 <h3 align="left">Get in Touch</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaoapinho" target="_blank"><img align="left" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="linkedin" height="50"/></a>
@@ -29,16 +24,16 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 </p>
 
 <h3 align="left">Certifications</h3>
-<div align="left">
-  <p>
-    <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="55" height="30" align="center" />
-    <span>&nbsp;&nbsp;IBM Certified Data Science Professional</span>
-  </p>
-  <p>
-    <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="40" height="40" align="center" />
-    <span>&nbsp;&nbsp;TensorFlow Certified Developer</span>
-  </p>
-</div>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="55" height="30" valign="middle" />
+  <span>IBM Certified Data Science Professional</span>
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="40" height="40" valign="middle" />
+  <span>TensorFlow Certified Developer</span>
+</p>
 
 <h3 align="left">Languages and Tools</h3>
 
