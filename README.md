@@ -26,13 +26,13 @@ Blending statistical analysis with heuristic and agentic frameworks, I extract a
 <h3 align="left">Certifications</h3>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="55" height="30" valign="middle" />
-  <span>IBM Certified Data Science Professional</span>
+  <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="40" height="40" valign="middle" />
+  <span>TensorFlow Certified Developer</span>
 </p>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/1cedff5b-15ef-422d-a967-e589f002185a" width="40" height="40" valign="middle" />
-  <span>TensorFlow Certified Developer</span>
+  <img src="https://github.com/user-attachments/assets/71f7f8a9-9973-4f30-abb7-d06e315fbb45" width="55" height="30" valign="middle" />
+  <span>IBM Certified Data Science Professional</span>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
