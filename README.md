@@ -8,12 +8,10 @@
  
 ## About Me
 
-*Feed curiosity, seek the right tools, build solutions.*
-
 Currently working at the intersection of corporate bond markets and production AI to develop models that empower institutional clients to research and trade debt markets.
 Blending statistical analysis with heuristic and agentic frameworks, I extract and model high-dimensional data to constantly improve the quality, depth, and breadth of our product insights.
 
-🧪 **Areas of Interest**: ML/Reinforcement Learning, Quantitative Finance, Market Dynamics.
+🧪 **Areas of Interest**: ML/Reinforcement Learning & Quantitative Finance.
 
 🗻 **Leisure:** Table Tennis, Running, Gomoku, Reading, and Hardware Tinkering.
 
